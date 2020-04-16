@@ -1,0 +1,40 @@
+body {
+    background-color: #d1f5d3;
+  }
+  p {
+    color: #084177; font-size: 20px;
+  }
+  table {
+color:#2b580c;
+text-align: left;
+font-size: 20px;
+  }
+  img {
+    border-radius: 100%;
+  }
+  h1 {
+  color: purple; font-size: 50px; font-weight: bold;
+  }
+  h3 {
+    color: #522d5b; font-size: 30px;
+  }
+  h4 {
+    color: #084177; font-size: 20px;
+  }
+
+  hr {
+    background-color: #d1f5d3;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: purple;
+    border-width: 5px;
+    width: 5%;
+  }
+ol {
+  font-size: 20px;
+  color: purple;
+}
+ul {
+  font-size: 20px;
+  color: purple;
+}
